@@ -58,7 +58,8 @@
       "text": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque.",
       "likesCount": "52",
       "img": "https://timesofindia.indiatimes.com/thumb/msid-73792188,width-1200,height-900,resizemode-4/.jpg",
-    }, {
+    },
+    {
       "id": 2,
       "name": "Nicholas Grissom",
       "time": "19 hours ago",
@@ -66,7 +67,8 @@
       "likesCount": "52",
       "img": "https://timesofindia.indiatimes.com/thumb/msid-73792188,width-1200,height-900,resizemode-4/.jpg",
 
-    }, {
+    },
+    {
       "id": 3,
       "name": "Nicholas Grissom",
       "time": "19 hours ago",
@@ -74,7 +76,8 @@
       "likesCount": "52",
       "img": "https://timesofindia.indiatimes.com/thumb/msid-73792188,width-1200,height-900,resizemode-4/.jpg",
 
-    }, {
+    },
+    {
       "id": 4,
       "name": "Nicholas Grissom",
       "time": "19 hours ago",
@@ -82,7 +85,8 @@
       "likesCount": "52",
       "img": "https://timesofindia.indiatimes.com/thumb/msid-73792188,width-1200,height-900,resizemode-4/.jpg",
 
-    }, {
+    },
+    {
       "id": 5,
       "name": "Nicholas Grissom",
       "time": "19 hours ago",
@@ -90,9 +94,6 @@
       "likesCount": "52",
       "img": "https://timesofindia.indiatimes.com/thumb/msid-73792188,width-1200,height-900,resizemode-4/.jpg",
 
-    },
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+    }
+  ]
 }
